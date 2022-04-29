@@ -7,7 +7,7 @@ This is arunning project housing a series of Landing Pages, mostly built to be r
 
 <br>
 
-<img src="https://github.com/Charlesu49/landing_pages/blob/master/images/screenshot_phone.png" alt="phone screenshot">
+<img src="https://github.com/Charlesu49/landing_pages/blob/master/images/screenshot_mobile.png" alt="phone screenshot">
 
 
 ## Tools and Technologies
