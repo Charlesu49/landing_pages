@@ -9,6 +9,13 @@ This is arunning project housing a series of Landing Pages, mostly built to be r
 
 <img src="https://github.com/Charlesu49/landing_pages/blob/master/images/screenshot_mobile.png" alt="phone screenshot">
 
+## Project 2(404 Page)
+### Screenshots
+<img src="https://github.com/Charlesu49/landing_pages/blob/master/404_page/images/screenshot_desktop.png" alt="desktop screenshot">
+
+<br>
+
+<img src="https://github.com/Charlesu49/landing_pages/blob/master/404_page/images/screenshot_mobile.png" alt="phone screenshot">
 
 ## Tools and Technologies
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&logoWidth=30"></img>
